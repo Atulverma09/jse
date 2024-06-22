@@ -1,4 +1,4 @@
-//  stack and heap
+// stack and heap
 //stack(primitive )  ek copy milta hai
 // in heap original me changes aate hai
 
