@@ -24,3 +24,7 @@ arr.shift(17);
 console.log(arr);
 
 console.log(arr.includes(5));
+
+
+
+//array make sallow copy means changes in original array also
